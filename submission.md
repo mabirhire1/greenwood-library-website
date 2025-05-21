@@ -68,6 +68,19 @@
 17. Repository Structure on GitHub Showing Merged Branches
 ![Project History](img/screenshot17-history-of-merge.png)
 
+## Pull Request Review & Merging
+- Pull Requests were created from feature branches  
+
+- (add-book-reviews and update-events) to main.
+
+- Team members were assigned to review PRs.
+
+- Feedback was addressed where needed.
+
+- All changes were approved and merged into main.
+
+- Feature branches were deleted after merging.
+
 ##  Final Deliverables
 -  All feature branches created and PRs submitted.
 
